@@ -91,7 +91,7 @@ LetsDefend SOC Analyst Learning Path        ISACA member (T&T Chapter)
 
 ### `> connect`
 
-[`linkedin/jelanidm`](https://www.linkedin.com/in/jelanidm) &nbsp;·&nbsp; [`portfolio`](#) &nbsp;·&nbsp; [`jelanidm@gmail.com`](mailto:jelanidm@gmail.com)
+[`linkedin/jelanidm`](https://www.linkedin.com/in/jelanidm) &nbsp;·&nbsp; [`portfolio`](https://symphonious-starlight-c43bcf.netlify.app/) &nbsp;·&nbsp; [`jelanidm@gmail.com`](mailto:jelanidm@gmail.com)
 
 ```
 # connection encrypted · built in the lab
