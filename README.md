@@ -58,15 +58,13 @@ the email security controls behind them.
 
 ### `> stack`
 
-![NIST CSF 2.0](https://img.shields.io/badge/NIST_CSF_2.0-0d1117?style=flat-square&labelColor=0d1117&color=4ade80)
-![CIS Controls v8](https://img.shields.io/badge/CIS_Controls_v8-0d1117?style=flat-square&labelColor=0d1117&color=4ade80)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&labelColor=0d1117&color=4ade80)
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0d1117?style=flat-square&logo=microsoftazure&logoColor=4ade80&labelColor=0d1117&color=2f7d4f)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-0d1117?style=flat-square&logo=elastic&logoColor=4ade80&labelColor=0d1117&color=2f7d4f)
-![M365 Defender](https://img.shields.io/badge/M365_Defender-0d1117?style=flat-square&logo=microsoft&logoColor=4ade80&labelColor=0d1117&color=2f7d4f)
-![pfSense](https://img.shields.io/badge/pfSense-0d1117?style=flat-square&logo=pfsense&logoColor=4ade80&labelColor=0d1117&color=2f7d4f)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4ade80&labelColor=0d1117&color=2f7d4f)
+```
+frameworks / grc   ::  NIST CSF 2.0 | CIS Controls v8 | MITRE ATT&CK | Risk Assessment | TPRM | Tabletop
+siem / detection   ::  Microsoft Sentinel | Elastic Stack | Splunk | M365 Defender | Defender for Endpoint
+m365 security      ::  Entra ID | Conditional Access | Intune | Defender for Business | Purview | EOP
+network / systems  ::  pfSense | Active Directory | TCP/IP | VLANs | Wireshark | Nmap | Kali
+scripting          ::  Python | SQL | Gophish | Sysmon | CrowdSec
+```
 
 ---
 
@@ -96,8 +94,3 @@ LetsDefend SOC Analyst Learning Path        ISACA member (T&T Chapter)
 ```
 # connection encrypted · built in the lab
 ```
-
-<!--
-  Replace the (#) portfolio link with your live Netlify URL once it's deployed.
-  This file lives in a repo named exactly "jelanidm" to render on your profile.
--->
